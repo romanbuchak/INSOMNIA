@@ -5,7 +5,7 @@ This repository was created for writing the backend of a project on the specialt
 To run the program you need:
 
 + download jar file
-+ run the project 
++ run the project
 + copy the path to the target folder
 + run the command cd + path to target
-+ grun it using java -jar + path to jar file
++ run it using java -jar + path to jar file
