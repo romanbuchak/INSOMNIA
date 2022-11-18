@@ -1,0 +1,61 @@
+----------------------------------------------------------
+Accel X: 0.07 m/s^2 Y: 0.25 m/s^2 Z: 9.86 m/s^2
+Mag X: 35.46 UTY: 38.23 uTZ: 156.18 UT
+Gyro X: -0.08 rad/sY: 0.02 rad/sZ: 0.02 rad/s
+satelits - 5
+horizontal accuracy - 2.1
+latitude and longitude - 49.954208 / 23.551879
+date and time - 06/08/2022 09:13:40 706
+altitude - 251.40
+Direction of movement (compass) - 104.53
+Speed in km. - 0.15
+Direction - ESE
+Distance to the Polytechnic - 34
+112.55
+Distance to the Polytechnic - ESE
+---------------------------------------------------------
+Accel X: 0.07 m/s^2 Y: 0.25 m/s^2 Z: 9.86 m/s^2
+Mag X: 35.46 UTY: 38.23 uTZ: 156.18 UT
+Gyro X: -0.08 rad/sY: 0.02 rad/sZ: 0.02 rad/s
+satelits - 5
+horizontal accuracy - 2.1
+latitude and longitude - 49.954208 / 23.551876
+date and time - 06/08/2022 09:13:43 761
+altitude - 251.50
+Direction of movement (compass) - 104.53
+Speed in km. - 0.20
+Direction - ESE
+Distance to the Polytechnic - 34
+112.55
+Distance to the Polytechnic - ESE
+----------------------------------------------------------
+Accel X: 0.07 m/s^2 Y: 0.25 m/s^2 Z: 9.86 m/s^2
+Mag X: 35.46 UTY: 38.23 uTZ: 156.18 UT
+Gyro X: -0.08 rad/sY: 0.02 rad/sZ: 0.02 rad/s
+satelits - 5
+horizontal accuracy - 2.1
+latitude and longitude - 49.954208 / 23.551880
+date and time - 06/08/2022 09:13:47 761
+altitude - 251.50
+Direction of movement (compass) - 104.53
+Speed in km. - 0.20
+Direction - ESE
+Distance to the Polytechnic - 34
+112.55
+Distance to the Polytechnic - ESE
+------------------------------------------------------------
+Accel X: 0.07 m/s^2 Y: 0.25 m/s^2 Z: 9.86 m/s^2
+Mag X: 35.46 UTY: 38.23 uTZ: 156.18 UT
+Gyro X: -0.08 rad/sY: 0.02 rad/sZ: 0.02 rad/s
+satelits - 5
+horizontal accuracy - 2.1
+latitude and longitude - 49.954208 / 23.551901
+date and time - 06/08/2022 09:13:50 761
+altitude - 251.50
+Direction of movement (compass) - 104.53
+Speed in km. - 0.20
+Direction - ESE
+Distance to the Polytechnic - 34
+112.55
+Distance to the Polytechnic - ESE
+-------------------------------------------------------------
